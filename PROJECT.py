@@ -1,5 +1,3 @@
-# GROUP PROJECT:- Problem Solving and Programming (Library Management System)
-
 # Fetches book data from a given URL (assuming JSON format) and returns a list of book dictionaries
 # Handles potential HTTP request and JSON parsing errors
 
